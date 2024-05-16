@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A277949D-6659-4EE9-A3C8-E569546CCE74}|MinurskaZadacha\\MinurskaZadacha.csproj|c:\\users\\lenovo\\desktop\\siana\\recnici\\minurskazadacha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A277949D-6659-4EE9-A3C8-E569546CCE74}|MinurskaZadacha\\MinurskaZadacha.csproj|solutionrelative:minurskazadacha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2C2F08-05C5-4715-96C7-4518E3A875EB}|TelefonenUkazatel\\TelefonenUkazatel.csproj|c:\\users\\lenovo\\desktop\\siana\\recnici\\telefonenukazatel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2C2F08-05C5-4715-96C7-4518E3A875EB}|TelefonenUkazatel\\TelefonenUkazatel.csproj|solutionrelative:telefonenukazatel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici\\MinurskaZadacha\\Program.cs",
+              "RelativeDocumentMoniker": "MinurskaZadacha\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici\\MinurskaZadacha\\Program.cs",
+              "RelativeToolTip": "MinurskaZadacha\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:02:06.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici\\TelefonenUkazatel\\Program.cs",
+              "RelativeDocumentMoniker": "TelefonenUkazatel\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Recnici\\TelefonenUkazatel\\Program.cs",
+              "RelativeToolTip": "TelefonenUkazatel\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:00:08.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

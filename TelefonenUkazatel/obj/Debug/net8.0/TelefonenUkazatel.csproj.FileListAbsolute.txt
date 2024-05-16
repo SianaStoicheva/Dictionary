@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\bin\Debug\net8.0\TelefonenUkazatel.exe
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\bin\Debug\net8.0\TelefonenUkazatel.deps.json
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\bin\Debug\net8.0\TelefonenUkazatel.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\bin\Debug\net8.0\TelefonenUkazatel.dll
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\bin\Debug\net8.0\TelefonenUkazatel.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\obj\Debug\net8.0\TelefonenUkazatel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\obj\Debug\net8.0\TelefonenUkazatel.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\obj\Debug\net8.0\TelefonenUkazatel.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\obj\Debug\net8.0\TelefonenUkazatel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\obj\Debug\net8.0\TelefonenUkazatel.dll
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\obj\Debug\net8.0\refint\TelefonenUkazatel.dll
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\obj\Debug\net8.0\TelefonenUkazatel.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\obj\Debug\net8.0\TelefonenUkazatel.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Recnici\TelefonenUkazatel\obj\Debug\net8.0\ref\TelefonenUkazatel.dll

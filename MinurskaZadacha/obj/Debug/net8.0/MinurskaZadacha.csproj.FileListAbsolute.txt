@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\bin\Debug\net8.0\MinurskaZadacha.exe
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\bin\Debug\net8.0\MinurskaZadacha.deps.json
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\bin\Debug\net8.0\MinurskaZadacha.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\bin\Debug\net8.0\MinurskaZadacha.dll
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\bin\Debug\net8.0\MinurskaZadacha.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\obj\Debug\net8.0\MinurskaZadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\obj\Debug\net8.0\MinurskaZadacha.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\obj\Debug\net8.0\MinurskaZadacha.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\obj\Debug\net8.0\MinurskaZadacha.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\obj\Debug\net8.0\MinurskaZadacha.dll
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\obj\Debug\net8.0\refint\MinurskaZadacha.dll
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\obj\Debug\net8.0\MinurskaZadacha.pdb
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\obj\Debug\net8.0\MinurskaZadacha.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Recnici\MinurskaZadacha\obj\Debug\net8.0\ref\MinurskaZadacha.dll
